@@ -1,5 +1,8 @@
 #! python3
 
+#this is a personal script, that I will update/make easier to use for others
+#in the meantime I thought I'd share in case anyone else found it useful in its current state
+
 import requests
 import json
 import urllib
