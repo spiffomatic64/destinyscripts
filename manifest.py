@@ -76,5 +76,5 @@ def db_read():
                     print()
                 
 #get_manifest()
-#download_extract()
-db_read()
+download_extract()
+#db_read()
